@@ -28,5 +28,13 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 * PHP >7.0.0
 * MySQL
 
-> We're living the future so
-
+# How to run this code?
+* clone this repo for sure </br>
+    run this command on your git bash
+`
+git clone https://github.com/danovcode/Lumen-laravel
+`
+* instal the lumen laravel on your project (the clone)
+```
+composer install
+```
