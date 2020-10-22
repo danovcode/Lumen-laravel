@@ -28,3 +28,5 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 * PHP >7.0.0
 * MySQL
 
+> We're living the future so
+
